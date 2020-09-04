@@ -79,3 +79,9 @@ h4{
 
   }
 
+  .about{
+      display: flex;
+      color: #ffffff;
+      padding-top: 100px;
+  }
+
